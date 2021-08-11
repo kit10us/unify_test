@@ -1,0 +1,6 @@
+[submodule "unify"]
+	path = unify
+	url = git@github.com:kit10us/unify
+[submodule "googletest"]
+	path = googletest
+	url = git@github.com:google/googletest
